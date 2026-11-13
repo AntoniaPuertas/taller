@@ -1,0 +1,4 @@
+$servidor = "";
+$nombrebase = "";
+$usuario = "";
+$password = "";
